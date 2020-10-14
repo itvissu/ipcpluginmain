@@ -1,1 +1,0 @@
-# InfineaSDK-Cordova-Demo

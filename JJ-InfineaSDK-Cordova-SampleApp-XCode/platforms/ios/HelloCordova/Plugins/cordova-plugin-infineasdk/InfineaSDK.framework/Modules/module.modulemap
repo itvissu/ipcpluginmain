@@ -1,6 +1,0 @@
-framework module InfineaSDK {
-  umbrella header "InfineaSDK.h"
-
-  export *
-  module * { export * }
-}
